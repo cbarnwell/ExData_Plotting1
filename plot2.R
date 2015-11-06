@@ -22,7 +22,3 @@ plot(newDT$DateTime,newDT$Global_active_power,ylab="Global Active Power (kilowat
 
 dev.copy(png,file="plot2.png")
 dev.off()
-
-
-
-

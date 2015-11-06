@@ -27,7 +27,3 @@ legend("topright",lwd=1, lty=1, cex=.7 ,col=c("black","red","blue"),legend=c("Su
 
 dev.copy(png,file="plot3.png")
 dev.off()
-
-
-
-

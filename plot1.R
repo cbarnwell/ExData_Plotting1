@@ -22,7 +22,3 @@ hist(newDT$Global_active_power,main="Global Active Power",col="Red",xlab="Global
 
 dev.copy(png,file="plot1.png")
 dev.off()
-
-
-
-

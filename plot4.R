@@ -35,7 +35,3 @@ plot(newDT$DateTime,newDT$Global_reactive_power,ylab="Global_reactive_power", xl
 
 dev.copy(png,file="plot4.png")
 dev.off()
-
-
-
-
